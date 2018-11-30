@@ -1,0 +1,26 @@
+{
+  "name": "lightsound",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^5.9.0",
+    "node": "^11.2.0",
+    "package-json": "^5.0.0",
+    "tape": "^4.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alMutazBeAllah/lightSound.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alMutazBeAllah/lightSound/issues"
+  },
+  "homepage": "https://github.com/alMutazBeAllah/lightSound#readme"
+}
